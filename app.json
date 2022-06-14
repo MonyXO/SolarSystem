@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "SolarSystem",
+    "slug": "SolarSystem",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
